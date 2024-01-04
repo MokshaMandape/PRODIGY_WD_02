@@ -1,4 +1,5 @@
 Stop Watch Web Application
+
 Created a modern and simple stopwatch using HTML-5, CSS, and JavaScript.
 An awesome looking stopwatch with the following features:
 1. Play/Pause the timer
